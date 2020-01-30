@@ -5,24 +5,46 @@
 	<title>Document</title>
 </head>
 <body>
-   <script type="text/javascript"  src="intermediate.json"></script>
+    
+
+
+
+
+
+   <script type="text/javascript"  src="ch.json"></script>
 
 	<script>
-	var work = JSON.parse(Employees);
+	var Cars = JSON.parse(Cars);
 	var i = 0
+    var temp
     document.writeln("<table border='2'><tr>");
     for (i = 0; i < work.length; i++) {
         document.writeln("<td>");
         document.writeln("<table border='1' width=100 >");
         document.writeln("<tr><td><b>lastName</b></td><td width=50>" + work[i].lastName + "</td></tr>");
         document.writeln("<tr><td><b>firstName</b></td><td width=50>" + work[i].firstName + "</td></tr>");
-        document.writeln("<tr><td><b>salarz</b></td><td width=50>" + work[i].salary + "</td></tr>");
         document.writeln("</table>");
         document.writeln("</td>");
     }
-    document.writeln("</tr></table> <br>");
+    document.writeln("</tr></table>");
 
 	 </script>
+     <header id="header" class="">
+         <img src="img/header.jpg" alt="">
+     </header><!-- /header -->
+     <main>
+         <div id="container">
+            <div class="topPic">
+                <div class="topPicList">
+                    
+                </div>
+                
+            </div>
+
+         </div>
+     </main>
+     <footer>
+     </footer>
 	
 </body>
 </html>

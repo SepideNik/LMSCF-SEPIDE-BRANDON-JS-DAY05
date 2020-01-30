@@ -1,0 +1,61 @@
+     Cars = `[{
+
+         "name": "Dodge",
+
+         "year": "2019",
+
+         "image": "img/car1.jpg",
+
+         "price": "40,000"         
+
+     },{
+
+         "name": "Dodge",
+
+         "year": "2019",
+
+         "image": "img/car1.jpg",
+
+         "price": "40,000"       
+
+     }, {
+
+         "name": "Dodge",
+
+         "year": "2019",
+
+         "image": "img/car1.jpg",
+
+         "price": "40,000"       
+
+     }, {
+
+          "name": "Dodge",
+
+         "year": "2019",
+
+         "image": "img/car1.jpg",
+
+         "price": "40,000"       
+
+     }, {
+
+         "name": "Dodge",
+
+         "year": "2019",
+
+         "image": "img/car1.jpg",
+
+         "price": "40,000"       
+
+     }, {
+
+          "name": "Dodge",
+
+         "year": "2019",
+
+         "image": "img/car1.jpg",
+
+         "price": "40,000"       
+
+     }]`;
